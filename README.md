@@ -13,3 +13,6 @@ After you are done with the lesson:
 
 
 So... Do stuffs?
+
+
+tobi says "Thank you for the instructions"
